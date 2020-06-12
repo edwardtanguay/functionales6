@@ -1,0 +1,13 @@
+const numbers = [6, 3, 76, 2, 324, 62, 6, 7, 8, 3, 2, 3634, 63, 4];
+console.log(numbers);
+console.log(numbers.reverse());
+console.log(numbers.sort());
+console.log(numbers.push(0));
+console.log(numbers.push(-23));
+console.log(numbers.sort((a, b) => a - b));
+console.log(numbers.pop());
+console.log(numbers);
+console.log(numbers.slice(3,8));
+console.log(numbers.slice());
+console.log(numbers.slice().reverse());
+console.log(numbers);
