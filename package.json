@@ -1,7 +1,6 @@
 {
   "name": "functionales6",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,6 +11,17 @@
   "dependencies": {
     "@babel/core": "^7.9.6",
     "@babel/node": "^7.8.7",
-    "@babel/preset-env": "^7.9.6"
-  }
+    "@babel/preset-env": "^7.9.6",
+    "lodash": "^4.17.15"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edwardtanguay/functionales6.git"
+  },
+  "bugs": {
+    "url": "https://github.com/edwardtanguay/functionales6/issues"
+  },
+  "homepage": "https://github.com/edwardtanguay/functionales6#readme",
+  "description": ""
 }
